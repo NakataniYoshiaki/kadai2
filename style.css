@@ -72,12 +72,6 @@ main {
 }
 .header-menu {
   display: none;
-  position: relative;
-}
-.header-menu p {
-  position: absolute;
-  top: -15px;
-  right: 0;
 }
 header a:hover {
   opacity: 0.7;
